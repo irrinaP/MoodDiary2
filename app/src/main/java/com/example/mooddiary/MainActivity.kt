@@ -42,6 +42,7 @@ class MainActivity : AppCompatActivity() {
 
     private var isAscending = true
 
+    ///fffff
     companion object {
         private const val REQUEST_NOTIFICATION_PERMISSION = 1001
         const val CHANNEL_ID = "MoodDiaryChannel"
